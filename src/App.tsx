@@ -184,7 +184,7 @@ export default function App() {
             <div>
               <div className="flex items-center gap-2">
                 <h1 className="text-lg font-bold tracking-tight text-slate-800 uppercase">
-                  Sertif-Vite
+                  Diploma Builder
                 </h1>
                 <span className="text-[10px] font-bold bg-indigo-50 text-indigo-600 px-2 py-0.5 rounded-full border border-indigo-100">
                   Онлайн генератор v2.4
