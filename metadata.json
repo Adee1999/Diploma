@@ -1,0 +1,6 @@
+{
+  "name": "Certificate & Diploma Generator",
+  "description": "Онлайн сертификаттарды, дипломдарды және мадақтама грамоталарын жасап, А4 форматында PDF түрінде жүктеуге арналған қосымша.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
